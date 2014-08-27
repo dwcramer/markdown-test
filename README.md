@@ -45,3 +45,10 @@ qui dolorem eum fugiat quo voluptas nulla pariatur? Caesar adsum jam forte.
   pariatur?
 
 Foo bar baz. Test test.
+
+```scala
+object HelloWorld {
+    def main(args: Array[String]) =
+	        println("Hello World!")
+			}
+```
